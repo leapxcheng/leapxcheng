@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋 I'm Zicheng Zhao (赵子成) <img align='right' src='https://github-readme-stats.vercel.app/api?username=leapxcheng&show_icons=true&theme=cobalt' width='380px'>
 
 <!--
 **leapxcheng/leapxcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently a PhD student at Nanjing University of Science and Technology.
+- 🔭 I'm interested in Knowledge Graph, LLM, Knowledge Graph Question Answering (KGQA) and Multi-document Question Answering (MDQA).
+- 📫 Personal Page: [https://leapxcheng.github.io/](https://leapxcheng.github.io/).
+
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/leapxcheng)
+![Vistors](https://img.shields.io/endpoint?color=blue&label=Visitors&url=https%3A%2F%2Fhits.dwyl.com%2FRManLuo%2Fleapxcheng.json)
